@@ -1,0 +1,267 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "620",
+            "short_name" : "620",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "8th Ave",
+            "short_name" : "8th Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "New York",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "New York County",
+            "short_name" : "New York County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "New York",
+            "short_name" : "NY",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10018",
+            "short_name" : "10018",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e620 8th Ave\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew York\u003c/span\u003e, \u003cspan class=\"region\"\u003eNY\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10018\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUnited States\u003c/span\u003e",
+      "formatted_address" : "620 8th Ave, New York, NY 10018, United States",
+      "formatted_phone_number" : "(212) 921-2400",
+      "geometry" : {
+         "location" : {
+            "lat" : 40.756143,
+            "lng" : -73.98983699999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "3bd64d542359b9b08fb8d857f919632705d1b43b",
+      "international_phone_number" : "+1 212-921-2400",
+      "name" : "Schnipper's Quality Kitchen",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:30 am – 11:00 pm",
+            "Tuesday: 11:30 am – 11:00 pm",
+            "Wednesday: 11:30 am – 11:00 pm",
+            "Thursday: 11:30 am – 11:00 pm",
+            "Friday: 11:30 am – 11:00 pm",
+            "Saturday: 11:00 am – 11:00 pm",
+            "Sunday: 11:00 am – 10:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1600,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAz6tOyiLPyyAMeMnFVgzFiv5s4YnnOQ0bM_7RxgaHfHan-_jMR2jNKQm_jfwhkYyPTl1mNF1Hl_MMYyvXidsRZV7LBIDI7ENGd_hNj4WEG1ZJQAX337TpX8-HFJDCyrzAmip_LC14GoW6cToNsWfNfBIQdQkkqbjEoIG4PrFmH9kf-xoUPTfegrPt7IvnnfjNxsIdfsdNiF0",
+            "width" : 2844
+         },
+         {
+            "height" : 1600,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAA1qBVeunpYtH93X7EqmzJ86n_1gVEOXnDXTuRC9hIc1EVtItgc5a73inGKUvddaauLJImsNhpp8Iog-wJcHJmBjE9Z5mj209sOS5ZWclp-TOgBTYYqYazhmqHooYJGJ5DPYKTtrl75ZRQFI-IwfW1nBIQ_CJmZ6aV-tfhXzZRpGYyORoUAhI7Ieg0LctYW0glASVD-T_OQyg",
+            "width" : 2844
+         },
+         {
+            "height" : 1600,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAhoZxVob8telZDqhjN9A_MoUoKRsrk_ia08dcJOfxB45HGmefAs2ysCre1etWogyRdrtbHU_F-5Yhyxg5YlwbyA9if5HFjFsp7TBPYRFKRr_qQ3E-WkbDPy20EI2CC8zlX0qMxO-6fI7Al1qcOWVicxIQH3gy7uM3Ef4b35cAWd9etBoUVnUrmXnS2DwI9SDHgiojH2uMatI",
+            "width" : 2844
+         },
+         {
+            "height" : 540,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100443613105112060160\"\u003eSandra Ordonez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CqQBkgAAACYEQq7k_Z4taISsiR3fY9uNEKjRJxpEQ1KIVFFODUQzNsrmA-X-hy65nPGQ-95Y6JY6q4amHf-PYXwEqFLlpq414Q_R8bZICzE4y606lkpTefaHcKIg3koK-tLMe8vo-S6elp86nOppe40Ys5G0k3RwBugt_TegXnHwh0Fos2Du9vSzkH--CerGP0NbQ4BpqaaP3IDbtuItMztMuW3p1OASEFrK6G51GNguoBz92E-xuzgaFNslv81OdM-unwkzGHHopOsir6Nq",
+            "width" : 720
+         },
+         {
+            "height" : 920,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111168412925585125048\"\u003eStella Dacuma Schour\u003c/a\u003e"
+            ],
+            "photo_reference" : "CpQBgQAAAEPrQLSQ2vOGRJrrHa_kPdantZ5X6Uqy0PDcLmeFEevBoWCpWpif8maOuRFp54lMkpYoAV3G9G5mQgaYUwg8y9gErBWrXXKlOtYscwlt-nlZq0wv0PXTJy1Wi1Qu-w1kNXaUCOpEX-x3nwmGCoKswIOlKsedV4LlgGo0bI2Ohe3idaGxwr336YLeTLSBnVus0BIQLBE3Kwm6QHvjFEFENhwOfxoUV7R2ggof4vAxbE8A-KqUonTGcCw",
+            "width" : 1632
+         },
+         {
+            "height" : 1152,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/106654503918907830147\"\u003eThe Corcoran Group\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRqAAAAciaPnFFQoBu3nKIYaD3aTisgeIHUDouDZ3TK2hsTa-5JFyn5xlFJI0oxIUQAy6xSth2q4hRSmXxMwu-zItttv6Lx81m5C1wyRatyCi3BlR5q5FmrGFF-CIxlBdwtPA_Y51D46ok3-VncourYSip8MxIQANNUAG2tWXYyJFQsAK1N1hoUOhVRczV6SYJLEixILfs8D_nudus",
+            "width" : 2048
+         }
+      ],
+      "place_id" : "ChIJx97RSlNYwokRUXP8Ihf0P_M",
+      "price_level" : 2,
+      "rating" : 3.9,
+      "reference" : "CoQBdQAAAMoE3CDfNmbtG0-6ibePsocHW4wx3iJDddtfcarEQGWcsT9kCjjI-oQia66SopC_7mBGNBDSB_qoopYdOX4Zr-2-G3-I-ePqA7i37M8uGdy3YJZiXnIl70JuQSj3WN7yf8s3PQZ-QuVE9AaWOkNegvBPI-cDZSZ8YELE42sPUGKfEhANDDM9xoa55EklyHskBhtxGhRo7zCeDmY7TA7brJV9sVlgfYWetA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Adam Van Grover",
+            "author_url" : "https://plus.google.com/117884036826386052000",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Schnipper's has a funny sounding name, and is probably one of the best, most reasonably priced burger joints that is also across the street from the Port Authority, which is handy. The food is fast casual, freshly made, and actually pretty decent quality which is a nice surprise. I've eaten (and drank) here on numerous occasions, and find the atmosphere, cleanliness, and quality (for the price) above expectations. It can be a little on the casual side of fast food - meaning if you're in a hurry to catch a bus, it may not be the best choice - but it will certainly be better than eating greasy bus station food and will be cheaper too. I mainly order burgers, but have been told the mac and cheese is good as well. ",
+            "time" : 1414159613
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jeff Carpenter",
+            "author_url" : "https://plus.google.com/101152350674312372772",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "If you are looking for a step up from fast food - this is it.  Great, unique menu with lots of options and variety. Something for everyone from non-adventurous kids to adults that want to try something unique. The price of the shakes was a little bit obnoxious but they were good.",
+            "time" : 1406593079
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jaznea Brumfield",
+            "author_url" : "https://plus.google.com/103783953143557120945",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Best place to catch up with friends or go get a quick dinner by yourself. I love this place. Fast Service. AMAZING, great quality food. ",
+            "time" : 1407257099
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Christen McCluney",
+            "author_url" : "https://plus.google.com/116018395519325692264",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "My friends and I randomly found this place while exploring the city. The place was packed but after ordering the food was there within minutes. We ordered the sloppy joes and they were really great. I hadn't had one in a long time and it was good. The sweet potatoe fries with the maple dipping sauce were also great and I was surprised to find a good limeade there as well,",
+            "time" : 1402628310
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jennifer Edhomeriegue",
+            "author_url" : "https://plus.google.com/101727719484269452837",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "This place is a little bit of awesome in every bite. Since they've opened in 2009, I've always had a great and easy going meal every single time. Their burgers are juicy, their chicken tenders crispy, and their fries are hand cut and fried to perfection. Everything is made to order and fresh off the grill, making it worth the wait when you finally get to bite into that goodness.\n\nThe only thing I've never tried on their menu were the salads, but I'm sure they're all good since they look awesome whenever I see them on a tray going to another table.\n\nMy absolute favorites are the Schnipper's Chicken Filet (a crispy tender chicken sandwich with their own special Schnippers sauce), their mac and cheese, and their Mac and Joe - a mixture of the aforementioned dish with Sloppy Joe meat (no bun). \n\n",
+            "time" : 1393523976
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "establishment" ],
+      "url" : "https://plus.google.com/101533375615193559679/about?hl=en-US",
+      "user_ratings_total" : 95,
+      "utc_offset" : -300,
+      "vicinity" : "620 8th Ave, New York",
+      "website" : "http://www.schnippers.com/"
+   },
+   "status" : "OK"
+}

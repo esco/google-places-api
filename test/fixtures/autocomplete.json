@@ -1,0 +1,180 @@
+{
+   "predictions" : [
+      {
+         "description" : "Schnipper's Quality Kitchen, 8th Avenue, New York, NY, United States",
+         "id" : "3bd64d542359b9b08fb8d857f919632705d1b43b",
+         "matched_substrings" : [
+            {
+               "length" : 6,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJx97RSlNYwokRUXP8Ihf0P_M",
+         "reference" : "CmRTAAAAvi8y0C7uQEk4uEdcUEZ-cpMDMBI3lP4hph3FW10wozcNnx8Cg0BT6Lmqea94bJXzRuQ_Mnuk_Jqqg9i4EFcIlTylKgzu0_rqCi7iELJLM0cK8C0ITpuQFgRjbsXYfd6kEhDCodugzp1hkFBvvXfHtsXAGhSrN74vhg91bx-DCa9XtvzntVlmEw",
+         "terms" : [
+            {
+               "offset" : 0,
+               "value" : "Schnipper's Quality Kitchen"
+            },
+            {
+               "offset" : 29,
+               "value" : "8th Avenue"
+            },
+            {
+               "offset" : 41,
+               "value" : "New York"
+            },
+            {
+               "offset" : 51,
+               "value" : "NY"
+            },
+            {
+               "offset" : 55,
+               "value" : "United States"
+            }
+         ],
+         "types" : [ "establishment" ]
+      },
+      {
+         "description" : "Schnipper's Quality Kitchen, Lexington Avenue, New York, NY, United States",
+         "id" : "ef298b367b39987f71ad66de5afb6e4365e44ccd",
+         "matched_substrings" : [
+            {
+               "length" : 6,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJA2OcxvxYwokRxQ-FDbT-fy0",
+         "reference" : "CmRYAAAAMaBwQrC9RhKutqg17XZ39m28NS5qGgu9_0pOZyMMFXaEFLUtxYeJz5raez74NCGEPIFqjAN5IPp7BR5IbZq-C1M2Asw3OmOivk48VN8ebPgC321HWbUVV4mmpZjLa4X7EhBGGh0ZCDm-rRRkKHgi-U3jGhTJujhMpG1aytTu_UHE01R7YTeCGw",
+         "terms" : [
+            {
+               "offset" : 0,
+               "value" : "Schnipper's Quality Kitchen"
+            },
+            {
+               "offset" : 29,
+               "value" : "Lexington Avenue"
+            },
+            {
+               "offset" : 47,
+               "value" : "New York"
+            },
+            {
+               "offset" : 57,
+               "value" : "NY"
+            },
+            {
+               "offset" : 61,
+               "value" : "United States"
+            }
+         ],
+         "types" : [ "establishment" ]
+      },
+      {
+         "description" : "Schnipper’s Quality Kitchen, East 23rd Street, New York, NY, United States",
+         "id" : "4d1d29414c90ccda875e50ae9d864cad9d1d2bc0",
+         "matched_substrings" : [
+            {
+               "length" : 6,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJn_-RSqFZwokR1bO4MeM6vwo",
+         "reference" : "CmRaAAAAU2jMG7JA207CfE-XabYtlYmXIxBtQ7zmxK8VxIr4ZzPusaxQaqZ5hgVZLYYgROCQZDOqHZ05JFvL9c80mbG9bvc_xmcLY8v81TH2JePB1VyIcZgnQxLu_aY5dDQHUZ7QEhAKJbSPTFmp1NDgCwPyRyV_GhTMGv0E61EtqGCuqEyF3S-Nf43i8Q",
+         "terms" : [
+            {
+               "offset" : 0,
+               "value" : "Schnipper’s Quality Kitchen"
+            },
+            {
+               "offset" : 29,
+               "value" : "East 23rd Street"
+            },
+            {
+               "offset" : 47,
+               "value" : "New York"
+            },
+            {
+               "offset" : 57,
+               "value" : "NY"
+            },
+            {
+               "offset" : 61,
+               "value" : "United States"
+            }
+         ],
+         "types" : [ "establishment" ]
+      },
+      {
+         "description" : "Schnipper Steven MD, East 37th Street, New York, NY, United States",
+         "id" : "fa6260eaa9bceb3be58f684d5fb04f9ab8acd76c",
+         "matched_substrings" : [
+            {
+               "length" : 6,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJFewxHAVZwokRlgnVtFUv_h0",
+         "reference" : "ClRQAAAARMqIzhO0UMoGKElSOc0M9sxnUHxXUpnzOC5ZvsL9Oq5j5b0CVsIJvKi_U-sN8RID1wEHSKjeQiQcMt24KtruUhe4jkFkdVre_0K3-nWygZ8SEFyjMNaa8RTK5C3qB4JKTbQaFJgqKhxhYvS-uoWqiYKd7x1MtxTh",
+         "terms" : [
+            {
+               "offset" : 0,
+               "value" : "Schnipper Steven MD"
+            },
+            {
+               "offset" : 21,
+               "value" : "East 37th Street"
+            },
+            {
+               "offset" : 39,
+               "value" : "New York"
+            },
+            {
+               "offset" : 49,
+               "value" : "NY"
+            },
+            {
+               "offset" : 53,
+               "value" : "United States"
+            }
+         ],
+         "types" : [ "establishment" ]
+      },
+      {
+         "description" : "Schnipper Eric Scot MD, Stewart Avenue, Garden City, NY, United States",
+         "id" : "71a1694d5fca0ac990d8d0adf2318dd6047850bc",
+         "matched_substrings" : [
+            {
+               "length" : 6,
+               "offset" : 0
+            }
+         ],
+         "place_id" : "ChIJMbKXbIZ9wokRqdZRazvRgj8",
+         "reference" : "CmRUAAAAJGB2-9P2ZqStLt7Qbwum7uQ_Ule4OFJc1cQSYTzKnuw56nZRTj6IsdGfnWPTHs3j7dxeNcZS9CWuP_92XcEzZpdJQ_zEVCnHfCBMZpppQQekxyyaJPjuR15nHf-h9GSqEhDzV0XY-6klZ_-VTXamWR5RGhRquSS5mBwa6Uq9JjpxWyoy3j-v1g",
+         "terms" : [
+            {
+               "offset" : 0,
+               "value" : "Schnipper Eric Scot MD"
+            },
+            {
+               "offset" : 24,
+               "value" : "Stewart Avenue"
+            },
+            {
+               "offset" : 40,
+               "value" : "Garden City"
+            },
+            {
+               "offset" : 53,
+               "value" : "NY"
+            },
+            {
+               "offset" : 57,
+               "value" : "United States"
+            }
+         ],
+         "types" : [ "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

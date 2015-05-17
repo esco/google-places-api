@@ -1,0 +1,595 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCBgEAAKAr0ycMrBwkhSX6Yryi196p6v5QyXncdk88g2wegsj13ijLCwfXEhFtvaAlv8eZqO6apjcqDvnfCIp-x0sQ67IX7oEjBhIBkohPWheP7V-MBq7gR0r5bp6P3WVc_8UTM6SwX-hOVqNGhII7xaGQXsfCjocGAD5oGx_3Jd3qeULwgjHCwfW9tljy7g-_Ipm8cV8bWIiylIPAMidTU-B2BC_IrZP6OuTh_VqZiNKYRkd30wkyoNWZCcWkmFi2pXk2v0Bl0WI3dSOD1TROob4_x5IAJ8zKaaSSLo0fLzQgGlqq9qpQfsv1uRucLJHfGpKcby6FwA9PXxCz8B2lSNXGz0bC3tcU-kv1ZySm764iqU_cEhBUrlrIuqWwu_Eol2XnPXXyGhSjJPME5jv1l2mngFvZYIBHByrmnA",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.756143,
+               "lng" : -73.98983699999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3bd64d542359b9b08fb8d857f919632705d1b43b",
+         "name" : "Schnipper's Quality Kitchen",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAo6FxSJHu_egD7iNG5TFKH1Iv5-JbEY2SmauejDzSZ5pwF41gNIDkC58geDF-ms8LZfl4aLVYrqscaiklpNstKdZX-p40LmXswKEG9xryy_9TDJTHtOWY2jMLW8-JNw2r5KOgO_KLzLyW4U0lVA4lthIQSPlGPAfnVQ8zMp_eN_4zJRoUs9pzOJSPFsBBgOgHVLnOfquq48E",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJx97RSlNYwokRUXP8Ihf0P_M",
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "CoQBfQAAAG2skQ-XCrLa2BHeiPhjeMmK16k2vZ9owf6o-EgaRQcXw2EGATIio_c9art7w9xWqySa8IfcTr4phTnKr-QCqx-JUZNjZYHiNHMcvhiiNUc2ZAN5O-6h3n7BVeoBK8QaZ4tFi9VU0a-TVtV-1ng7cpRuwYe3mpqMfX9HkYj40f80EhCN61uaMbx4FDF6ZlRxLyxpGhTtD8a0EGet0J5Wdrn8GuweuzRR8g",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "620 8th Ave, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.756226,
+               "lng" : -73.9902
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "f26538cf4edea60a6bd5ff2ecfe564d8847b14ad",
+         "name" : "Dean & DeLuca",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAfpQWSvpC5zNHuTE47dm18r52LKEc4ViezRDFzXas7lnQVBo7XAb3rDgDRKQ--Y5DdVsAGNqsVY5xkPtWTcTWNa5yhBHUWa8FnvUOdUBDxtiQ3woB1gD1PDkECYopD2m9MFsvk44lgkUlnz12r8KFBBIQoFV4j7p9oVkpLbogT1TDPRoUe7c1WjQKCg0Z2_dBCDOYlXSkfRk",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJx97RSlNYwokRSvl71Yl1ttM",
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "CnRvAAAALkBl3jhMexexE6w38vsPRIeRIEkAZPufr3dX4DmE2GrsvUItRb7Dj4SbJKTTcgcBjqw0KIit7Dtv30Zaavx0GNWnBqAmBO0kuq7JSQ2ghKzGPdciRT0XBEiG8bWUNnSN4IrWzDKEWllgODxcnd5pjhIQZFy7yKhtx6jTRQvRtmEuBBoUWba6MkzBNqIygkGDHuVSbKWwLDg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "establishment"
+         ],
+         "vicinity" : "620 8th Ave, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.756032,
+               "lng" : -73.989237
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "58ffbb90d8b6203ff93803f9319e4b76fa69e249",
+         "name" : "Wolfgang's Steakhouse",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAfrNXdrWrbko0sekArbhHyZKfsOVT9Q3JuzNL8xOA4RhVj2rr5GvcwyYRrje99FMPwh0wiHHPlnjpmhDP-10NxOv_1IUAl5mVrx7rdBVXd3rZ4HiRzDnsmlf7Vuk0ZE8fWZS4Miv-vSZf9s5tQIMaJRIQZHh0FrGIIOWlyDnGhKyl7RoU71iFj0qoDOJL_AhCSkllmNdDNjg",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJuTqCVatZwokRaaU3zsRuw98",
+         "price_level" : 4,
+         "rating" : 4.4,
+         "reference" : "CoQBdwAAAO1CHBSjd639qQsLBdYKzcTGCx228vKq8hBrk4kmYwv1asj-BLgb0Nfw2xpNW-dQU76GvCody_3vmashhkwMAfaqsskxhR9GB9MiGXwyQl3kRjWtsnNUi6g69-3vaioXLWLnkgMeU11nMvr_ynDuooCY-NbR_fEqGk4reFUytZPIEhCm1EE_2mxHYp1PQWOaH0hsGhSJBePMZIeimBFMkfWyzFOvMU-2Cg",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "250 W 41st St, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.756403,
+               "lng" : -73.990669
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "430b193f70e2c07afb095a05f67e9abcc39fc61d",
+         "name" : "GNC",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJxSvNNFNYwokR0SUqakY27fE",
+         "price_level" : 2,
+         "reference" : "CnRlAAAAjHS-1KwxAeVseUCIyBAcbf2Xoux-N1YVnnF7VfgFiGAs9NjAxEBi-f1OgL-ITFfdEIme5Xkn4qvPQqsZBQ8M0Gy5eYOl1C8LAnbl-jA879UnKGhbIml-OTomB07fzw3ExBKZhVuP0Q75Y25IWukWchIQ-GdcsRzS3AILuOibsrNOAhoUjOXL5uMG66BmjICR57yKh7yTRu8",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "store", "health", "establishment" ],
+         "vicinity" : "625 8th Ave, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.756507,
+               "lng" : -73.98922
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "44501036c6abb0529221482fb722affb1af723c7",
+         "name" : "Hilton Times Square",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3240,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CnRqAAAAfsUeoiR-JVBB_CjoelnnqjXIDkNaSyaXeCcj2VtlHPdikygw20mSbwkaccfzdJizjSbKtijeE_NbqMhGv4fqtBWZo1ft6Bv0AZdJtKSRnTH1cqsR_Zi04-atAL2COGJ3Y0vrDhessoGDBkOdWEzMOBIQTdUxX4P8wZSevJ1Rwo8hhhoUmm_qnZbEbl5Xmid_JfKdx5htYgM",
+               "width" : 4320
+            }
+         ],
+         "place_id" : "ChIJ7yGup1RYwokRnGBh8EluQWs",
+         "rating" : 4,
+         "reference" : "CoQBdAAAAC7lWJfahnIoAmATdLT2yCgdVoRqGWl9L4idO-4ym7J-12Nb9gq3-iaqeMCz_g6-Y9WTQASjTW388II1oCFgMM-bEPD5LtpdtIabag1OPGmtX5eouF47ddWyMS7K0-MYo-2fnAWQ5gt4x00RrHuQi31J-QZWTuOPoj0De4Wt3gIUEhCnlbPG6JNXY5OW02VPsez3GhS5yrvfcDllRTLNoWIkJ05kA0DIeg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "lodging", "food", "establishment" ],
+         "vicinity" : "234 W 42nd St, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.756337,
+               "lng" : -73.99071499999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fc925ffa9e673bdff0b60413ff20872d63cec6f6",
+         "name" : "Villa Pizza",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/113671568622955820769\"\u003eKeith Gregory\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdQAAALlzy3H1MhyDwTxDICmKhsPkEF92sGa_xWJg46hld8SYRgTYHOt7ShkmsXlOQQRfOrwkp7MHCWJkXlOUn6oof33TvrUIV1InuNcerua2BMOatigTu3ZCXnwLTE-4Ni_nwE-dlEk7Q3S7bCa9XOu2Dw4NsGgKUI02Qdhjdn90qPMREhDYu98s-GzqH7ybuf2EU2EZGhTYjjctP5qmL3_mBefKkRZGNUanMw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ-T9zaFNYwokRrYGZEnWIjDk",
+         "price_level" : 2,
+         "rating" : 2.2,
+         "reference" : "CnRsAAAA7R64kIMkoZhGMbSxEyM2z_CUnpVxJiMcKBZ9W4HgZZMWzP9TUAdeYvVgIwUqBGvyfS6hnHdTIxK8r_b81B5PfaJp0_1syB63oIXhq6XxAW7FTiWLtXfKT1zFLuL-iIzJ1y4f4Iho_FD0kXhArRs37BIQiYTCImuDcgSy8_BPqo0gpRoURVvKGclb11nIPr67qA0TS69K2gg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "625 8th Ave, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.755581,
+               "lng" : -73.990247
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "9fb7af1aadbd1533a0b5f0a5cc5ae7e658588f44",
+         "name" : "TeleonCafe",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAA-70QxU2fE7dsHGpdU-Jf7YCMC7Tmjf2UC4sRJLmSyVkTv0EjTvZWiFzzOmbLKRWBvUAYlQiOS7L-7j2SXD_LYWuUMAT35dDJdGJEccaL1OG7f0rq-SRRrDtV_y2MYBrVWHsFSNVUrxsK7C8SgzJxDxIQIfR3y9Yl9Y0eLhTXxPxGRBoUt9kGr-TsibJXkLeho971bHAwaFk",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJp9YnyKxZwokRCatTLqXryoY",
+         "price_level" : 1,
+         "reference" : "CnRsAAAALSwm__QIdaj8a65ElB8cfdcXL2LCuLVsko2in-HbQxvUuh2oOIGPv-aLrKOoK1PX3f38A2bMqmTesIY2vgCVbGysNRyDw7r4wDfup8ook-XQ0SJ_jQhYqfFYmVV0rIeKwO9_7C9IkgpbiUiJiN7xzxIQSD8uO2bW4VKzyteSjYMxHBoUUnEhWkLxI-N3puD9_8FLryRTvsI",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "cafe", "restaurant", "food", "establishment" ],
+         "vicinity" : "264 W 40th St #2, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.75571,
+               "lng" : -73.990522
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "63fb7e3e29987a30eb3adbf2ac17f61228652e71",
+         "name" : "Piccolo Cafe",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2844,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAABSHiR_piqZ8nKc7As0-dbsk-xxBkMFJR2Tajmr8qTx-Wsw-jm1IDYoJmdVY2IDcg2Le5GQ_YB-jY1F0kDNO5L17gvOEDn02jW_8L1DSNqR8BF_A5Sxcm8sCcbF3ETuWHJ3DUWHEVavrh_Wucxr0NWxIQn7u-AbTjvALkWvQgDWt7bRoUwtwxqQr0_VXvU6abFUmgyJ55GH0",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ0bIrSwdZwokR4L7jqM7np5c",
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "CnRuAAAAc2fY4upDlZsTuvIDvI1CJdwlOFxP2k8ziyT3iifN1_JwPXwRJUs63p0rnO1dKd13TOtgnHqxtqTdjYnYDmQvovWkY6OCEBfMilQ7N9E9uSXOE0NCLEGqchk1YesWirD9p3zVdCWZYjBgOliq-piVPhIQwnJKzf16Zv7_TjTAE_9NaxoUS86nsHmdeNLXHzwaPU7ZW7kaZjg",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "establishment" ],
+         "vicinity" : "274 W 40th St, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.755758,
+               "lng" : -73.99059
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "da2bbda30d7e8ebfafda491f3e6e06f1fe022e10",
+         "name" : "Siena Pizza",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAUsC-5RLDIahDBeAyiLg8hG0vluAT9ImyND7-GAl9I9b9-U7xe--7O8E7HE8zRqwy6PKsi5GNiVDW_ut35BxgtwamderTRQSPj57ldq2N4MNmumKK3KHfwmbB94WFfZCLo1qSh4KbTTbIoIIvSEwtpxIQMud_uIoQRU5aMepnjxbQghoU-KJbN4uoWBXTjq4kmbcLo0iUEEw",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJYxdKyKxZwokRbHg1auv_7L4",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CnRtAAAAu71HFv8BYyVKb0dfgWZfgT2YXueA802HT5ApArZdcAzImYSiuu1m4hvEmKPOSOBmluo3dRRHqGam6PN8JfFQ24TRaI3YnyC_W1WRM_0bL9O4z181G01jp_SPN5dODSkKlcDxxvuXI46zkDvYDv2eEBIQfERkbNcBF_1rvZQWAIlx8BoU80IKkm7qk8N-IGTO39IYR_Z5T3E",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "meal_delivery", "food", "establishment" ],
+         "vicinity" : "274 W 40th St, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.755556,
+               "lng" : -73.98953400000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "28df6312f117f365f0e7e1793d572bea9774b64c",
+         "name" : "Inakaya",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJt2w8pqxZwokRP8t7c2IA7Yw",
+         "price_level" : 3,
+         "rating" : 4.2,
+         "reference" : "CnRpAAAADbzusBcWo-R5YhBDrYf_2uzHlVZspTcG7I1jl_x07vRw6--WFMoN_EJXDo6xkg6UNRPSus6_1HFWrXuF1bhSPwnYhgRcC3gjvXW3vBX8fAcsgzg7ORa_sDy7CXZzhLbjkXCoFCc42dZjdt907J_ctBIQD6kSwxU4cdD-0P8yq_gSkhoUtmXqymQkWOHqM0-1KR0HqJEzOH8",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "231 W 40th St, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.75644,
+               "lng" : -73.990804
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "52802e189f177268046b27f7450df140bc35a826",
+         "name" : "Heartland Brewery",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAp671kMWrnVuSfw4PjKXRHAF131huRLDEBP1gDeqU6GDQ1LYJ-CzBHDGyYxrwo0y6qajNhaby4FDMALAr2523Xf70m82U2lEU7TfNrHSrpzC-yqFDTtEyFsdLRd0lENwWWMphHjFUN7YPWynWWEJqUhIQRuSa9QwF0z3gPDJgfeWEpRoUu4Qrngcrfhh4as3ZJ0KLoU17ir8",
+               "width" : 2844
+            }
+         ],
+         "place_id" : "ChIJkbeKH_lYwokRyq0D7eXp20Q",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CoQBcgAAAFNViTCXUWXhSr4VkRQ8-nhkzNS3iayopGROdCeFvSfMyqNEEmej3gVA37toDSQmS_7q4Ci4-jx1G1gzaXbp0F1vDvWx8t6xY_FeluNai6B8OKcZcsLsBwkYk96umFqe13Cq_Yj6UihO_qo2nAHYVze0fg6jGUIt92KgcFLqbH6rEhC_CXTu7T8I1Ntze1Q7Dpc1GhSl5cyZ7Nc-c8F2ITwZ65pHNvVvjQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "625 8th Ave, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.756706,
+               "lng" : -73.98918500000001
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "732498badb028bbb53ad200ad68ea81524c63aa1",
+         "name" : "Applebee's",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAArCQuDcjgyDNMUkYoUv4-sLMzkN1Bs_k1aCBiSfxWAt9vpKESU6G0xDjfrbRr848qSMwyCHWezIMk1gIFCeEUK9vX9VeM7ZyU0fYB52GwjYhSXNg3iaGWhwfJWMIIdbnA-WdJPTMLZXwPf_bqeECIaBIQZ1j_N2-y25QGX2b1XDNa1RoUN4wAWB3evfOvJOjqwvuZxYSHgp0",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJsfAVPlZYwokRu3esrS2UaSA",
+         "price_level" : 2,
+         "rating" : 3.1,
+         "reference" : "CnRrAAAAiViC6qMyLY9XIskVDTKuJxejOZ7ks00YXXo-Oc_iDu2pN-d-VJyf5dvzOlFcotMbEQDhwCIKoBiDeSUn1pok8YcGnvWwg0H8m5FtPTPQ6oIWRJrv1YZ9HT20nZn_xq2fP1pALUbcbnwM5V0Ae_1isxIQoMU_knBdJL7qLPWWIFag_hoUeZHMQbfyEhAftYHm9NIQigX2Z9c",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "234 W 42nd St, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.756438,
+               "lng" : -73.990878
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9edb89a415b9789e8f71e6d5b959414f53cbb881",
+         "name" : "Au Bon Pain",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1224,
+               "html_attributions" : [
+                  "\u003ca href=\"https://plus.google.com/101747952940804375798\"\u003eAzizxon Dadaxanov\u003c/a\u003e"
+               ],
+               "photo_reference" : "CnRoAAAAneP0OEsmcRsZiHnkpNYk-6if85X2k22g_a2V7cOGo7mEnULInGG2w6JJx7Lvq-6O2IArjh4A23vdCVYwcxU7p8VIUvp5GblGYxZfw5QnZF2d88CBZ9bNRKUeUx0zsBKrsPsArgdJVLh9ERGUlyFPjxIQyI1JD8Bwf0XjsqdXn1z4WRoUbyfZupSmTiPVbpvO5BswY-UaZ-g",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJxSvNNFNYwokRjPXU7mmD8Nc",
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "CnRtAAAAnUmhXQzd5o0BWgsD5XIJ1Grq16iWbcAJSrly0GYxiXX9K33suXotUnJTOkDNd0dkhgAwcWWfy8MGXYkgp_EoyedRAE4xaCcbKYpu6OOqSUlegL4D7YSq7Qpm3q5pmGu5PfWurby5CvJOB7TMnUakGBIQVZUs9x-0e_EhUaGyaQzM5xoUpLHitrUofkO7b6cggog7KuTTPsU",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "store", "cafe", "restaurant", "food", "establishment" ],
+         "vicinity" : "625 8th Ave, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.756201,
+               "lng" : -73.990953
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "32b79773013f66049e764f6c53ed605b85c8ab82",
+         "name" : "Duane Reade",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ2ewYHlRYwokRfGm7d2DTg-U",
+         "price_level" : 2,
+         "reference" : "CnRtAAAA9QUpErS875XtSLH6CHrOovJh89SiXdgAbsGe__qvdM9puR0UAYNtDm89JURbLa8emVw48ZjqEGy1cKySYv9sh5RXCdGQNyQgop8TxwEhEwx5GwDPbfrHIn2emla9tvawq-uQi_TFl_HAfilGyFq9tRIQsoMLaxXEZXN-2tIZYoq1zRoUfwROS2rj30uRt4LMKKJRZ6BT6Hk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "pharmacy",
+            "store",
+            "health",
+            "establishment"
+         ],
+         "vicinity" : "625 8th Ave, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.756472,
+               "lng" : -73.99097
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3a60f71511f6aa342043eaf58b90df759fc464bf",
+         "name" : "Auntie Anne's",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAlUaa149pRnoVKjK9nf_6mU1bkVhLah9ruXgs9bHFG7LQsyD0g8PeLWZ5ovP2pt2NSDROMtAsK0IP7ycKwTpY61WerMjVqEm5zQ-T6yeJuIaYA5v7YdJ3m7IVuCQVbGXHjGWSOqx5WGJPA3n6WAp3zBIQ9upfq52l5tz19MWTIpYVxBoUGNdE1kqSwImIOB83fQMNLz9RlKY",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJxSvNNFNYwokRt3-eeb2bjL4",
+         "price_level" : 1,
+         "reference" : "CnRvAAAAyo--1B06rPiDSFcHvUiRLTHe8GwnAHqIzJGDbagHCqlqitiCbOiw-YUaMwQJL3HBLrMcBV28UR45qUap_EKQ_Sgbr9hEPfQBkjG7KefSISmzPUCEcK_t6QGU-jEWAuHJ0S7o2a-4Fa3p5jFacS5QvxIQuCujnnRTHaxPU_nI4OochBoUu8nH11vmR62DYk41DyqdnJWSWQk",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "restaurant", "food", "establishment" ],
+         "vicinity" : "625 8th Ave, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.755603,
+               "lng" : -73.990748
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "471d571231e26883cb1b30a7c0e0ce4ce417b825",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAQ4qTiYa5VOe9QQaMELkYmGEjfFsgEmjSIbjpU0dW1T3xdlM5COhdEoPhbJARg5J_iVkBsEy_gj_tBcO0ByqzITI_6Yr-vNG0bqw0Yzi0ZzBfrGeuYjym86BTj7_toqmD5CZKlTm7i9e4f0-2cZYj-xIQaASs4deL_Nmh8yQKSX0oJBoUqsDW0l_laofKow9WIqVXb0qTTLc",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJo9g72axZwokRxHbLYM03fZ4",
+         "price_level" : 1,
+         "reference" : "CnRoAAAAjjV60DfB6XAmLBoDliGRw2LigG4O1-W37ccpDP_mmkX5MgQ7wHj6IXZLS7bpT5mhdxzzGkHvG0N3j36dode5psL2bZywboX4tGWiX9KorMlUfDSXwD8RGb8fH27iuv_s2wKEFUBQdzRZSt1kwoua4hIQfuHKoXNGAu-Tc2o2RWjoYBoUZGvrLULDru0EHhoxw9Ps_cY2CTA",
+         "scope" : "GOOGLE",
+         "types" : [ "meal_takeaway", "restaurant", "food", "establishment" ],
+         "vicinity" : "612 8th Ave, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.755944,
+               "lng" : -73.991057
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "42858337448c524853899648b8931d3e326285f1",
+         "name" : "Beer Authority",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 533,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAVHMIucS-6O41fpEvLnCuSD1-j5_peCmx51rf6N32FqAZGEfGfav72XeEQgEhQqOdJ1rHEuGy1AqljA3PMaMoYUviHBTewhTSelI1rj3FBcvfkgC5tGP75L3BFZpqxNuAL6YLjuwv8jw8XNiYr7vEIBIQdF7sx7zT5kgX68lqmETnQhoU3r4REHmalDLy_otf2ejb4bxGdcA",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJVw8SzKxZwokR861tjbsv364",
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "CnRwAAAAgmVflyIw3RK5ztdVdBPdPWWK7IrYIB2gwbJqBuXhd_7HGrVbqhdEpj0BTG1-B8ke1s_NAGGpRHPIEvO1mcqCDMRRTsb5D4OYgAeT6ChiZzYFffwV_AO0rCigyjcpfxLNYMO-J-UhtLG5NysN7o8dFRIQ8MQ1UhZnhCnEcJ4h_gX9vRoUemZgdhCWUncs6-gEV40qsjkIIIY",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "300 W 40th St, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.756487,
+               "lng" : -73.98876799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "01009f0e3898c4c6056910756b6e103caf855106",
+         "name" : "Dave & Buster's",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAQnU7FBjZWWSrVnq8gJwvwPsWH5nvVLoO8o0WuQVY6ssYWt8iyiEctlhXGTYsWUex_ZlBptBYoDRdK8em1WSGMsaDtEYtYFKD6ntL-cYnhnLYk6pasclqJ8fHsel-QViYt-84sqWOtkJm5v1tLQDacRIQGBX_sjgILypzpSFs2fkaKRoUGdrBcMdfUmmQzDQfmrhJcq-EhBw",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJ8VOfr1RYwokRdgk5I-NvtfE",
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "CoQBcQAAAIlkVVmGrz8jeR8QYhjzOmWmNx6tVbMuO1evQzdgVGIHOpqSlxHwNvYBzJkeGH0kNqg-lgCI0QqfVUn21R1L3Mv_CE51GVJkq5w8q-Wvhv15Nflt75RJdi8pdix04GXhQahpd7Q3-_m1WNsbYjH2yDGu-JNCd3gBS-r5FiRTWApVEhBFbB-jfAr2haZXfUqM6IFTGhQhv8vWVlvoykgqlgJAszmjU0cidQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "establishment" ],
+         "vicinity" : "234 W 42nd St #3, New York"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.755304,
+               "lng" : -73.989643
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "93d3a4fe73c069df035c57c47df345108a35dcbe",
+         "name" : "Boi Noodle House",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 387,
+               "html_attributions" : [],
+               "photo_reference" : "CnRqAAAAF8yZkO_uucPqJjHOD_0jnYk7wSZkQGy7OswCKrZgxig9g8zsGxTBVbUL5biLNjr7GnNaYn6CfEOtPBTnrTBE-6D3Ct75h77OTbsKXK_XZZh7Go4MOXUG0COjdCvrar9Xua6d9aqbpUTo2uihD4kTgRIQAuV45AGfLWhsmvm6klOcWRoUG3sgcP5Ml0pSllhlWrZzShYsJ3s",
+               "width" : 387
+            }
+         ],
+         "place_id" : "ChIJibpspaxZwokRxEgEC8ca_pk",
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "CoQBcgAAALov6_Td36VZTE7Ut63hegyc0Y3J6yEXkqlPYUKDdqlKGTv5vcJ7v_jydxtJnh3lk0A6yVBS52Z8Eg0pGYWjbyAAPlU62StokLFbpxIWSfb0Vm2qDvODQv1VDOiAniSoJNZf7n3-uUtv73OKEryqrF_Xs_7QUial0KB-_1VKp4tYEhB0sDOyJpafIq0j1xqxMDLgGhTE1ORL90rzEnJNWP5E-Z7bKz01CA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "240 W 40th St, Manhattan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.755301,
+               "lng" : -73.989525
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ca0bbb8c59d55fdf6950bf1e500149d0342f44cf",
+         "name" : "Guy & Gallard",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAAHO-6fLT1cVZOKGAutM3SfLbSYepivwNNyZi_Rwv2sU0O08uWqz8cH47uEIlE9LRjqGF9d-0VGak-1LaH7nhkDM-aFD8eTOpqHBzzmlg1ZLMjdVux0kFM1CAPM3HzsD9ATThjg6Rx8vWMt3gyjlIY6BIQCJaQCXmXKpLy3VQ45FOAvhoU7yWLYkPpMw_UTkB4zQlH0WK80p4",
+               "width" : 850
+            }
+         ],
+         "place_id" : "ChIJVwCjt6tZwokROg_xsyPslzA",
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "CnRuAAAADA9AKHkpn0VT1WtrejuAqx1UUH0FIcusvLyVmnNaolVcLq3ZyaHit653EPSGm2y-463NT0lgNboKwvqMT2HRYZcsF3HWpac2kWEia3KRw-3Ud4PMaU0NZIjMZEVL66g-7UHVKaMW15HcRSUJnUmm0BIQDs4Buzj8s7cz1dLcuVHs9xoUg-wmcEcclCv8akOeD3ojuCtW7T8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "240 W 40th St, New York"
+      }
+   ],
+   "status" : "OK"
+}
